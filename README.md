@@ -1,7 +1,6 @@
 <!-- Header with centered name and typing effect or simple bio -->
 <div align="center">
-  <h1>Hi there, I'm Junaid Gul! 👋</h1>
-  <h3>Software Engineer based in the United Kingdom 🇬🇧</h3>
+  <h6>Hi there, I'm Junaid Gul! 👋</h6>
 </div>
 
 ---
