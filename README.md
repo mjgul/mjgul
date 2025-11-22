@@ -42,19 +42,3 @@ I am a passionate developer currently working at **Alfa Quorum**. I specialize i
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mjgul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Junaid's Stats" height="180"/>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjgul&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180"/>
-</div>
-
-<!-- Optional: Streak stats if you code every day -->
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjgul&theme=tokyonight&hide_border=true" alt="Streak" />
-</div> -->
