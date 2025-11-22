@@ -2,13 +2,6 @@
 <div align="center">
   <h1>Hi there, I'm Junaid Gul! 👋</h1>
   <h3>Software Engineer based in the United Kingdom 🇬🇧</h3>
-  
-  <a href="https://junaidgul.co.uk/">
-    <img src="https://img.shields.io/badge/Portfolio-junaidgul.co.uk-ff69b4?style=for-the-badge&logo=safari" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/in/junaidgulsatti">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
 </div>
 
 ---
