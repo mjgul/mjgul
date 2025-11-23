@@ -8,6 +8,6 @@ I am a passionate developer currently working at **Alfa Quorum**. I specialize i
 - 🔭 I’m currently working on **Vehicle Backend Systems** and **Full Stack TypeScript projects**.
 - 👯 I’m looking to collaborate on **DevOps and Cloud Architecture**.
 - 💬 Ask me about **TypeScript, Node.js, and iOS Development**.
-- 📫 How to reach me: [Email](contact@junaidgul.co.uk)
+- 📫 How to reach me: Email: contact@junaidgul.co.uk)
 
 ---
