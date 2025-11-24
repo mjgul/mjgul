@@ -89,6 +89,6 @@ I believe great software isn't just about making things work—it's about making
 
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidgulsatti&show_icons=true&theme=radical" alt="Junaid's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidgulsatti&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mjgul&show_icons=true&theme=radical" alt="Junaid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjgul&layout=compact&theme=radical" alt="Top Langs" />
 </p>
