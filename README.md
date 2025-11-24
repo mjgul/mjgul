@@ -1,13 +1,17 @@
 <!-- Header with centered name and typing effect or simple bio -->
 <div>
   <h6>Hi there, I'm Junaid Gul! 👋</h6>
+  Gen Ai Developer | Full Stack Developer | Cloud Architect 
 </div>
 ---
 
-I am a passionate developer currently working at **Alfa Quorum**. I specialize in building scalable backend services and intuitive frontend applications. My work spans across web development and mobile applications.
-- 🔭 I’m currently working on **Vehicle Backend Systems** and **Full Stack TypeScript projects**.
-- 👯 I’m looking to collaborate on **DevOps and Cloud Architecture**.
-- 💬 Ask me about **TypeScript, Node.js, and iOS Development**.
-- 📫 How to reach me: Email: contact@junaidgul.co.uk
+
+I'm a passionate software engineer with 5+ years of experience building scalable, production-ready applications. I specialize in creating end-to-end solutions—from designing robust APIs to crafting intuitive user interfaces.
+🚀 What I'm Working On
+
+🔨 Building event-driven microservices with TypeScript/Node.js on GCP
+⚡ Developing high-performance APIs with GraphQL and REST
+🎨 Creating reusable component libraries for React applications
+☁️ Architecting cloud-native infrastructure with Kubernetes and Terraform
 
 ---
