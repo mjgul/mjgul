@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Junaid Gul 👋</h1>
-<h3 align="center">Full Stack Developer | Cloud Architect | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Cloud Architect | Problem Solver </h3>
 
 <p align="center">
   <a href="https://junaidgul.co.uk">
