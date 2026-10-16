@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate software engineer with <b>5+ years of experience</b> building scalable, production-ready applications. I specialize in creating end-to-end solutions—from designing robust APIs to crafting intuitive user interfaces.
+  I'm a passionate software engineer with <b>7+ years of experience</b> building scalable, production-ready applications. I specialize in creating end-to-end solutions—from designing robust APIs to crafting intuitive user interfaces.
 </p>
 
 ---
